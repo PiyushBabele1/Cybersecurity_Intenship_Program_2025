@@ -105,7 +105,7 @@ This internship is designed to provide *hands-on experience* across critical dom
 
 ## 📄 License
 
-This project is licensed under the [MIT License]
+This project is licensed under the [MIT License](https://github.com/PiyushBabele1/Cybersecurity_Intenship_Program_2025/blob/551eeb2db7c294f6b203875997e0e309da1eb204/LICENSE)
 
 ---
 
