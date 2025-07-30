@@ -8,7 +8,7 @@ To mark weekly attendance -
 1. Attend the session
 2. Complete at least ONE flag
 3. Upload a screenshot proof -
-![Attendance System](Week-1/Piyush_Flag1_Enter.png)
+![Attendance System](Week-1/piyush_Flag1_Enter.png)
 
 ---
 
